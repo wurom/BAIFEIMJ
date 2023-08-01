@@ -1,3 +1,3 @@
-# RDSDR
+# Road Software Defined Radio
 软件无线电之路,起步中...
 QQ交流群182518417
